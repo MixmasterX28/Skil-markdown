@@ -1,6 +1,9 @@
-#Chocoladetaart
+![![image](https://github.com/MixmasterX28/Skil-markdown/assets/144898918/f04f1dab-fdb4-4c15-a8ed-2030326ebf03)
 
-##Benodigdheden
+
+# Chocoladetaart
+
+## Benodigdheden
 
 *200 g pure chocolade 72%
 *175 g witte basterdsuiker
@@ -14,7 +17,7 @@
 *150 g melkchocolade
 *125 mlverse slagroom
 
-###Bereiding
+### Bereiding
 
 1.
 Verwarm de oven voor op 175 °C. Bekleed de bodem van de springvorm met bakpapier en vet de randen in. Hak de pure chocolade grof. Doe de suiker, boter, de helft van de pure chocolade, de gecondenseerde melk en het water in een pan. Verwarm al roerend op laag vuur tot een gladde massa.
